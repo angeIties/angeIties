@@ -10,10 +10,11 @@ alt="visitors"> </h1 ‍ ‍ 　　　　
 
 
   
-                                                                                                [𝒁𝒀𝑶](https://zyo.lol/alxter) - [𝑺𝑻𝑹𝑨𝑾](https://atlxter.straw.page) - [𝑨𝑻𝑨𝑩𝑶𝑶𝑲](https://angeIties.atabook.org/)  
+                                                                                                [zyo](https://zyo.lol/alxter) - [gun](https://guns.lol/angeities) - [ata](https://angeIties.atabook.org/)  
 
 <p align="center">
-  <a href="[https://github.com/atlxter/spotify-github-profile]">
+  <a href="
+<[https://github.com/angeIties/spotify-github-profile]">
   
   
 
